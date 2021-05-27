@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/IshanBaliyan/IshanBaliyan/master/Official_Intro_Skydive_Github.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech&color=000000&size=30&width=500&lines=⚡+Welcome+to+my+GitHub!;+Feel+free+to+browse...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=30&width=500&lines=⚡+Welcome+to+my+GitHub!;+Feel+free+to+browse...)](https://git.io/typing-svg)
 ---
 ## 🌀 About Me
 - 🎓 University of Waterloo Computer Science 2026
