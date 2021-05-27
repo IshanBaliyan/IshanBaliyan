@@ -22,9 +22,21 @@ Here are some ideas to get you started:
 - 📝 Researcher at Univerity of Waterloo Social and Intelligent Robotics Research Lab (SIRRL)
 - 💻 Incoming Google Computer Science Summer Institute (CSSI) Scholar
 - 🔨 Former Project Consultant at MVS Systems Inc.
----
+
 ## 💻 Skills
 - **Languages:** Java, Python, HTML/CSS/JavaScript, Arduino
 - **Frameworks/Tools:** Node.js, TensorFlow, Keras, Yaml
+
+## 🎯 What I'm currently doing
+- 🌱 I'm currently learning...
+  - Harvard CS50x: Introduction to Computer Science Online Course
+  - Reviewing Cracking the Coding Interview over summer 2021
+
+- 📖 I’m currently reading...
+  - How to Win Friends & Influence People by Dale Carnegie
+  - The Intelligent Investor by Benjamin Graham
+
+
+
 
 
