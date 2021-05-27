@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;&nbsp;
 
 ## 🎯 What I'm currently doing
+- 🌱 In Summer 2021, I'm currently learning ...
+  - Harvard CS50x: Introduction to Computer Science Online Course
+  - Cracking the Coding Interview
 
-- 📖 I’m currently reading...
+- 📖 I’m currently reading ...
   - How to Win Friends & Influence People by Dale Carnegie
   - The Intelligent Investor by Benjamin Graham
 
