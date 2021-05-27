@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 - 💻 Incoming Google Computer Science Summer Institute (CSSI) Scholar
 - 🔨 Former Project Consultant at MVS Systems Inc.
 
+## 💻 Skills
+- **Languages:** Java, Python, HTML/CSS/JavaScript, Arduino
+- **Frameworks/Tools:** Node.js, TensorFlow, Keras, Yaml
+
+
