@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/IshanBaliyan/IshanBaliyan/master/Official_Intro_Skydive_Github.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=000000&width=500&lines=Welcome+to+my+GitHub!;Feel+free+to+browse+my+profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&color=000000&width=500&lines=⚡ Welcome+to+my+GitHub!;⚡ Feel+free+to+browse+my+profile...)](https://git.io/typing-svg)
 
