@@ -33,7 +33,12 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanBaliyan&hide=TeX&layout=compact)
+<a href="https://github.com/IshanBaliyan/IshanBaliyan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanBaliyan&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/IshanBaliyan/IshanBaliyan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IshanBaliyan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ishan's GitHub Stats" />
+</a>
 
 ## 🎯 What I'm currently doing
 - 🌱 In Summer 2021, I'm currently learning ...
