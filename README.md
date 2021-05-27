@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;&nbsp;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanBaliyan&hide=TeX&layout=compact)
+
 ## 🎯 What I'm currently doing
 - 🌱 In Summer 2021, I'm currently learning ...
   - Harvard CS50x: Introduction to Computer Science Online Course
