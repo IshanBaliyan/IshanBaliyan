@@ -30,17 +30,10 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-
-Java, Python, HTML/CSS/JavaScript, Arduino
-- **Frameworks/Tools:** Node.js, TensorFlow, Keras, Yaml
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;&nbsp;
 
 ## 🎯 What I'm currently doing
-- 🌱 I'm currently learning...
-  - Harvard CS50x: Introduction to Computer Science Online Course
-  - Reviewing Cracking the Coding Interview over summer 2021
 
 - 📖 I’m currently reading...
   - How to Win Friends & Influence People by Dale Carnegie
