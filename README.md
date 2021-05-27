@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 
 ---
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Marcellus+SC&color=1E86FF&size=50&width=800&lines=🌀+Welcome+to+my+GitHub!;+Feel+free+to+browse...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Marcellus+SC&color=1E86FF&size=50&width=800&height=60lines=🌀+Welcome+to+my+GitHub!;+Feel+free+to+browse...)](https://git.io/typing-svg)
 ---
 ## 🌀 About Me
 - 🎓 University of Waterloo Computer Science 2026
