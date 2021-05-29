@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science 2026
-- 📝 Researcher at Univerity of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
+- 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
 - 💻 Incoming **Google Computer Science Summer Institute** (CSSI) Scholar
 - 🔨 Former Project Consultant at MVS Systems Inc.
 
