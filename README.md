@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
 - 💻 Incoming **Google Computer Science Summer Institute** (CSSI) Scholar
 - 🔨 Former Project Consultant at MVS Systems Inc.
-- 📘 University of Waterloo Faculty of Mathematics Scholarship $10,000 | Presented to students with strong math contest scores and STEM extracurriculars.
+- 📘 University of Waterloo Faculty of Mathematics Scholarship $10,000 | Strong STEM extracurriculars and Math contest scores.
 
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
