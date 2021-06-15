@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 🔨 Former Project Consultant at MVS Systems Inc.
 - 📘 University of Waterloo **Faculty of Mathematics Scholarship $10,000** | Based on Strong STEM extracurriculars and Math contest scores
 
+<a href="http://IshanBaliyan.me">
+Personal Website: IshanBaliyan.me
+</a>
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
