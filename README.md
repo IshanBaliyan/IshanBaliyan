@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanBaliyan" alt="IshanBaliyan" /> </p>
 
-<a href="http://IshanBaliyan.me">
-**Personal Website: IshanBaliyan.me**
-</a>
+**<a href="http://IshanBaliyan.me">
+Personal Website: IshanBaliyan.me
+</a>**
