@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 </a>
 
 ## 🎯 What I'm currently doing
-- 🌱 In Summer 2021, I'm currently learning ...
-  - Harvard CS50x: Introduction to Computer Science Online Course
-  - Cracking the Coding Interview
+- 🌱 In Summer 2021, I'm currently ...
+  - Attending the Google Computer Science Summer Institute
+  - Helping run Robotics Camps for FIRST Robotics Canada
 
 - 📖 I’m currently reading ...
   - How to Win Friends & Influence People by Dale Carnegie
