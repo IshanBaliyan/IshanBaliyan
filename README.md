@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🎓 University of Waterloo Computer Science 2026
 - 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
 - 💻 **Google Computer Science Summer Institute** (CSSI) Scholar
-- 🔨 Former Project Consultant at MVS Systems Inc.
+- 🔨 Former Software Consultant Intern at MVS Systems Inc.
 - 📘 University of Waterloo **Faculty of Mathematics Scholarship $10,000** | Based on Strong STEM extracurriculars and Math contest scores
 
 ## 💻 **Languages and Tools**:
@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 </a>
 
 ## 🎯 What I'm currently doing
-- 🌱 In Summer 2021, I'm currently ...
-  - Attending the Google Computer Science Summer Institute
-  - Helping run Robotics Camps for FIRST Robotics Canada
+- 🌱 In Spring 2022, I'm currently ...
+  - Building fun projects and competing in Hackathons, such as the recent HackMIT hackathon in Boston and Canada's Hack the North.
+  - Researching at UWaterloo for a Systematic Review research paper in Social Robotics.
 
 - 📖 I’m currently reading ...
-  - How to Win Friends & Influence People by Dale Carnegie
+  - Shoe Dog by Phil Knight
   - The Intelligent Investor by Benjamin Graham
 
 ## 📪 How to reach me
