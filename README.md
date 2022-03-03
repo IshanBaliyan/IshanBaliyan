@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ---
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science 2026
-- 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
 - 💻 **Google Computer Science Summer Institute** (CSSI) Scholar
 - 🔨 Former Software Consultant Intern at MVS Systems Inc.
-- 📘 University of Waterloo **Faculty of Mathematics Scholarship $10,000** | Based on Strong STEM extracurriculars and Math contest scores
+- 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
+- 📘 University of Waterloo **Faculty of Mathematics Scholarship $10,000** | Based on Strong Math contest scores
 
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
