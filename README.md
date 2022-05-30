@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science 2026
-- 🔨 Backend Engineering intern at Atolio Technologies, a US Startup
+- 🔨 Backend Engineering intern at **Atolio Technologies**, a US Startup
 - 💻 **Google Computer Science Summer Institute** (CSSI) Scholar
 - 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
 - 📘 University of Waterloo **Faculty of Mathematics Scholarship $10,000** | Based on Strong Math contest scores
