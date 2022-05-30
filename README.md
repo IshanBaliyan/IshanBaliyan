@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔨 Backend Engineering intern at **Atolio Technologies**, a US Startup
 - 💻 **Google Computer Science Summer Institute** (CSSI) Scholar
 - 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
-- 📘 University of Waterloo **Faculty of Mathematics Scholarship $10,000** | Based on Strong Math contest scores
+- 📘 MIT Driverless racecar team and Waterloo Autonomous driving design team
 
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
