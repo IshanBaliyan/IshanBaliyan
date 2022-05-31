@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science 2026
 - 🔨 Backend Engineering intern at **Atolio Technologies**, Startup
-- 💻 **Google Computer Science Summer Institute** (CSSI) Scholar
-- 📝 Researcher at University of Waterloo **Social and Intelligent Robotics Research Lab (SIRRL)**
 
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
