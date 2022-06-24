@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science 2026
 - 🔨 Backend Engineering intern at **Atolio Technologies**, Startup
-
+<!--
+https://github.com/Ileriayo/markdown-badges
+-->
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)&nbsp;&nbsp;
