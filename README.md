@@ -29,7 +29,7 @@ https://github.com/Ileriayo/markdown-badges
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c)
-![C++](https://img.shields.io/badge/-C++-black?logo=%2B%2B)
+![C++](https://img.shields.io/badge/-C-black?logo=%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)&nbsp;&nbsp;
