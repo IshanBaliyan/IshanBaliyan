@@ -29,13 +29,13 @@ https://github.com/Ileriayo/markdown-badges
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c)
-![C++](https://img.shields.io/badge/-C++-black?logo=c++)
+![C++](https://img.shields.io/badge/-C++-black?logo=%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-black?logo=aws)
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)&nbsp;&nbsp;
