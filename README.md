@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 ## 🌀 About Me
-### 🎓 University of Waterloo Computer Science 2026
+### 🎓 University of Waterloo Computer Science 2025
 - 🔨 Backend Engineering intern at **Atolio Technologies**, Startup
 <!--
 https://github.com/Ileriayo/markdown-badges
