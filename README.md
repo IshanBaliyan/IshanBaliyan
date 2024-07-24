@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science
-- 🔨 Backend Engineering at **Atolio Technologies**, Startup
+- 🔨 Backend Engineering at **PlayStation**, Payments Team
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
