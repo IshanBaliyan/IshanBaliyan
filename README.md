@@ -51,6 +51,8 @@ https://github.com/Ileriayo/markdown-badges
 </a>
 -->
 
+<!--
+
 ## 🎯 What I'm currently doing
 - 🌱 I'm currently ...
   - Building fun projects and competing in Hackathons, such as the recent HackMIT hackathon in Boston and Canada's Hack the North.
@@ -59,6 +61,8 @@ https://github.com/Ileriayo/markdown-badges
 - 📖 I’m currently reading ...
   - Shoe Dog by Phil Knight
   - The Intelligent Investor by Benjamin Graham
+
+  -->
 
 ## 📪 How to reach me
 [<img src="https://raw.githubusercontent.com/IshanBaliyan/IshanBaliyan/master/linkedin.png" height="80em" align="center" alt="Follow Ishan Baliyan on LinkedIn" title="Follow Ishan Baliyan on LinkedIn"/>](https://linkedin.com/in/Ishan-Baliyan)
