@@ -72,7 +72,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 **<a href="http://IshanBaliyan.com">
-Personal Website: IshanBaliyan.com
+IshanBaliyan.com
 </a>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanBaliyan" alt="IshanBaliyan" /> </p>
