@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
+
+<!--
 ## 💻 **Languages and Tools**:
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c)&nbsp;&nbsp;
@@ -41,6 +43,7 @@ https://github.com/Ileriayo/markdown-badges
 <a href="https://github.com/IshanBaliyan/IshanBaliyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanBaliyan&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+-->
 
 <!--
 <a href="https://github.com/IshanBaliyan/IshanBaliyan">
