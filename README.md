@@ -41,9 +41,12 @@ https://github.com/Ileriayo/markdown-badges
 <a href="https://github.com/IshanBaliyan/IshanBaliyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanBaliyan&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+<!--
 <a href="https://github.com/IshanBaliyan/IshanBaliyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IshanBaliyan&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=stars" alt="Ishan's GitHub Stats" />
 </a>
+-->
 
 ## 🎯 What I'm currently doing
 - 🌱 I'm currently ...
