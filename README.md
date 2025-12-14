@@ -64,8 +64,10 @@ https://github.com/Ileriayo/markdown-badges
 
   -->
 
+<!--
 ## 📪 How to reach me
 [<img src="https://raw.githubusercontent.com/IshanBaliyan/IshanBaliyan/master/linkedin.png" height="80em" align="center" alt="Follow Ishan Baliyan on LinkedIn" title="Follow Ishan Baliyan on LinkedIn"/>](https://linkedin.com/in/Ishan-Baliyan)
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanBaliyan" alt="IshanBaliyan" /> </p>
 
