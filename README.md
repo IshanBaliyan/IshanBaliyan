@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ---
 ## 🌀 About Me
-### 🔨 Software Engineering at **xAI**
-### 🎓 University of Waterloo Computer Science
+### Software Engineering at **xAI**
+### University of Waterloo Computer Science
 
 <!--
 https://github.com/Ileriayo/markdown-badges
