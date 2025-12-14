@@ -46,7 +46,7 @@ https://github.com/Ileriayo/markdown-badges
 </a>
 
 ## 🎯 What I'm currently doing
-- 🌱 In Spring 2025, I'm currently ...
+- 🌱 I'm currently ...
   - Building fun projects and competing in Hackathons, such as the recent HackMIT hackathon in Boston and Canada's Hack the North.
   - Researching at UWaterloo for a Systematic Review research paper in Social Robotics.
 
