@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 ## 🌀 About Me
 ### 🎓 University of Waterloo Computer Science
-- 🔨 Software Engineering at **xAI**
+### 🔨 Software Engineering at **xAI**
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
